@@ -14,6 +14,6 @@ Code fixed and tested for:
 
 - CSS selectors and properties are consolidated and organized to follow semantic structure
 
-- CSS file is commented and refactored code down from 200 line to 156 lines
+- CSS file is commented and refactored code down from 200 lines to 146 lines
 
 © 2020 KLR Designs
