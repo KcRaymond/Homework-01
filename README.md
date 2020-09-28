@@ -4,9 +4,9 @@ Create a codebase that follows accessibility standards
 SO THAT the website is optimized for search engines
 ```
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+[code refactor demo](./assets/01-html-css-git-homework-demo.png)
 
 Code fixed and tested for:
 
@@ -14,6 +14,8 @@ Code fixed and tested for:
 
 - CSS selectors and properties are consolidated and organized to follow semantic structure
 
-- CSS file is commented and refactored code down from 200 lines to 146 lines
+- CSS file is commented and refactored
+
+- Some margin spacing and design layouts were also modified
 
 © 2020 KLR Designs
