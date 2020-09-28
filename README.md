@@ -4,9 +4,9 @@ Create a codebase that follows accessibility standards
 SO THAT the website is optimized for search engines
 ```
 
-The following image shows the web application's appearance:
+The following links to the web application's appearance and functionality:
 
-[code refactor demo](./assets/01-html-css-git-homework-demo.png)
+[code refactor demo](https://kcraymond.github.io/Homework-01/)
 
 Code fixed and tested for:
 
